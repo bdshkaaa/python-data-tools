@@ -15,14 +15,11 @@ Collection of Python projects including data processing scripts and a simple RES
 
 ## 📁 Project Structure
 ```
-.
 ├── csv_analyzer.py # Script for analyzing CSV data
 ├── data.csv # Sample dataset
 ├── api.py # FastAPI application
 ├── requirements.txt # Dependencies
 └── README.md
-
----
 ```
 
 ## ⚙️ Installation
